@@ -1,0 +1,26 @@
+body {
+	padding:0;
+	margin:0;	
+}
+
+img {
+	position:absolute;
+}
+
+.boxaltbox{
+	left: 235px;
+	top: 132px;
+}
+
+.boxaltbox{
+	opacity:0;
+}
+
+.boxaltbox:hover{
+	opacity:1;
+	transition: 3s;
+}
+
+.inside{
+	opacity:100%;
+}
